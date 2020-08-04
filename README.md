@@ -2,7 +2,7 @@
 
 ### By: Jacob Colyvan, Ashley Bridges, Jeremy Wu
 
-### Github Repositories: https://github.com/yeddyfit/railsHackathon 
+### Github Repositories: https://github.com/ashleybridges01/HackerNewsTwo https://github.com/yeddyfit/railsHackathon 
 
 ### Website: https://hackernews2point0.herokuapp.com/
 
